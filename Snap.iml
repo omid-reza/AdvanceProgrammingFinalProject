@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="EclipseModuleManager">
+    <libelement value="jar://$MODULE_DIR$/../../ADjava projects/jxbrowser-6.21-cross-desktop-win_mac_linux/jxbrowser_development_license_for_swingosc.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../../ADjava projects/jxbrowser-6.21-cross-desktop-win_mac_linux/jxbrowser-1.4.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../../ADjava projects/jxbrowser-6.21-cross-desktop-win_mac_linux/jxbrowser-3.0.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../../ADjava projects/jxbrowser-6.21-cross-desktop-win_mac_linux/jxbrowser-6.21.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../../ADjava projects/jxbrowser-6.21-cross-desktop-win_mac_linux/jxbrowserdemo.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../../ADjava projects/jxbrowser-6.21-cross-desktop-win_mac_linux/jxbrowser-linux64-6.21.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../../ADjava projects/jxbrowser-6.21-cross-desktop-win_mac_linux/jxbrowser-mac-6.21.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../../ADjava projects/jxbrowser-6.21-cross-desktop-win_mac_linux/jxbrowser-win32-6.21.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../../ADjava projects/jxbrowser-6.21-cross-desktop-win_mac_linux/jxbrowser-win64-6.21.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../../mysql-connector-java.jar!/" />
+    <src_description expected_position="1">
+      <src_folder value="file://$MODULE_DIR$/src" expected_position="1" />
+    </src_description>
+  </component>
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/bin" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library name="jxbrowser_development_license_for_swingosc.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../ADjava projects/jxbrowser-6.21-cross-desktop-win_mac_linux/jxbrowser_development_license_for_swingosc.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jxbrowser-1.4.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../ADjava projects/jxbrowser-6.21-cross-desktop-win_mac_linux/jxbrowser-1.4.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jxbrowser-3.0.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../ADjava projects/jxbrowser-6.21-cross-desktop-win_mac_linux/jxbrowser-3.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jxbrowser-6.21.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../ADjava projects/jxbrowser-6.21-cross-desktop-win_mac_linux/jxbrowser-6.21.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jxbrowserdemo.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../ADjava projects/jxbrowser-6.21-cross-desktop-win_mac_linux/jxbrowserdemo.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jxbrowser-linux64-6.21.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../ADjava projects/jxbrowser-6.21-cross-desktop-win_mac_linux/jxbrowser-linux64-6.21.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jxbrowser-mac-6.21.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../ADjava projects/jxbrowser-6.21-cross-desktop-win_mac_linux/jxbrowser-mac-6.21.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jxbrowser-win32-6.21.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../ADjava projects/jxbrowser-6.21-cross-desktop-win_mac_linux/jxbrowser-win32-6.21.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jxbrowser-win64-6.21.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../ADjava projects/jxbrowser-6.21-cross-desktop-win_mac_linux/jxbrowser-win64-6.21.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="mysql-connector-java.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../mysql-connector-java.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+  </component>
+</module>

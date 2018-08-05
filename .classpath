@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="assets"/>
+	<classpathentry kind="lib" path="C:/Users/aa/Desktop/ADjava projects/jxbrowser-6.21-cross-desktop-win_mac_linux/jxbrowser_development_license_for_swingosc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/aa/Desktop/ADjava projects/jxbrowser-6.21-cross-desktop-win_mac_linux/jxbrowser-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/aa/Desktop/ADjava projects/jxbrowser-6.21-cross-desktop-win_mac_linux/jxbrowser-3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/aa/Desktop/ADjava projects/jxbrowser-6.21-cross-desktop-win_mac_linux/jxbrowser-6.21.jar"/>
+	<classpathentry kind="lib" path="C:/Users/aa/Desktop/ADjava projects/jxbrowser-6.21-cross-desktop-win_mac_linux/jxbrowserdemo.jar"/>
+	<classpathentry kind="lib" path="C:/Users/aa/Desktop/ADjava projects/jxbrowser-6.21-cross-desktop-win_mac_linux/jxbrowser-linux64-6.21.jar"/>
+	<classpathentry kind="lib" path="C:/Users/aa/Desktop/ADjava projects/jxbrowser-6.21-cross-desktop-win_mac_linux/jxbrowser-mac-6.21.jar"/>
+	<classpathentry kind="lib" path="C:/Users/aa/Desktop/ADjava projects/jxbrowser-6.21-cross-desktop-win_mac_linux/jxbrowser-win32-6.21.jar"/>
+	<classpathentry kind="lib" path="C:/Users/aa/Desktop/ADjava projects/jxbrowser-6.21-cross-desktop-win_mac_linux/jxbrowser-win64-6.21.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/aa/Desktop/mysql-connector-java.jar"/>
+	<classpathentry kind="lib" path="jgoodies-common-1.8.0.jar" sourcepath="jgoodies-common-1.8.0-sources.jar"/>
+	<classpathentry kind="lib" path="jgoodies-forms-1.8.0.jar" sourcepath="jgoodies-forms-1.8.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/aa/Desktop/Advance Java Projects/java-json.jar"/>
+	<classpathentry kind="lib" path="C:/Users/aa/Desktop/Advance Java Projects/gson-2.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
